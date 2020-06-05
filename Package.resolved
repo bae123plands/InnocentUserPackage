@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "EvilPackage",
+        "repositoryURL": "https://github.com/bae123plands/EvilPackage",
+        "state": {
+          "branch": "master",
+          "revision": "be9a222e5c904cc84f6558c6570b26f16109c38d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
